@@ -1,4 +1,4 @@
-title: Ove
+title: Ove Hansen
 url: "https://ove-hansen.github.io/"
 baseurl: ""
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: ""
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
