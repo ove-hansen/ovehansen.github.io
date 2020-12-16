@@ -1,6 +1,6 @@
 title: Ove Hansen
 url: "https://ove-hansen.github.io"
-baseurl: "/index"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
